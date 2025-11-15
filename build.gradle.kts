@@ -8,7 +8,7 @@ plugins {
 
 group = "com.pucetec"
 version = "0.0.1-SNAPSHOT"
-description = "Products"
+description = "Demo project for Products"
 
 java {
 	toolchain {
